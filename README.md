@@ -13,12 +13,12 @@ git clone https://github.com/walker-hyf/FCTalker.git
 cd $PROJECT_ROOT_DIR
 ```
 
-### Install dependencies
+Install dependencies
 ```bash
 conda env create -f ./environment.yaml
 ```
 
-### Activate the installed environment
+Activate the installed environment
 ```bash
 conda activate FCTalker
 ```
