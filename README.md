@@ -1,5 +1,15 @@
 # FCTalker: Fine and Coarse Grained Context Modeling for Expressive Conversational Speech Synthesis
 
+## Introduction
+This is an implementation of the following paper.
+> [FCTALKER: FINE AND COARSE GRAINED CONTEXT MODELING FOR EXPRESSIVE CONVERSATIONAL SPEECH SYNTHESIS.](https://arxiv.org/abs/2210.15360)
+> Submitted to ICASSP'2023
+
+Yifan Hu, [Rui Liu *](https://ttslr.github.io/), Guanglai Gao, [Haizhou Li](https://colips.org/~eleliha/).
+ 
+
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2210.15360)
+
 ## Dataset
 You can download [dataset](https://drive.google.com/drive/folders/1WRt-EprWs-2rmYxoWYT9_13omlhDHcaL) from DailyTalk.
 
