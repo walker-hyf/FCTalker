@@ -82,15 +82,16 @@ The source code for the Fine-Grained Encoder can be viewed in [modules.py](https
 ## Citation
 
 ```bash
-  @INPROCEEDINGS{9961271,  
-  author={Hu, Yifan and Yin, Pengkai and Liu, Rui and Bao, Feilong and Gao, Guanglai},  
-  booktitle={2022 International Conference on Asian Language Processing (IALP)},   
-  title={MnTTS: An Open-Source Mongolian Text-to-Speech Synthesis Dataset and Accompanied Baseline},   
-  year={2022},  
-  volume={},  
-  number={},  
-  pages={184-189},  
-  doi={10.1109/IALP57159.2022.9961271}}
+@misc{https://doi.org/10.48550/arxiv.2210.15360,
+  doi = {10.48550/ARXIV.2210.15360},
+  url = {https://arxiv.org/abs/2210.15360},
+  author = {Hu, Yifan and Liu, Rui and Gao, Guanglai and Li, Haizhou},
+  keywords = {Computation and Language (cs.CL), Sound (cs.SD), Audio and Speech Processing (eess.AS), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Electrical engineering, electronic engineering, information engineering, FOS: Electrical engineering, electronic engineering, information engineering},
+  title = {FCTalker: Fine and Coarse Grained Context Modeling for Expressive Conversational Speech Synthesis},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
 ```
 
 ## Author
