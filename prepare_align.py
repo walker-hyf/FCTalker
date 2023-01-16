@@ -1,6 +1,5 @@
 import argparse
 
-import DotDict
 from utils.tools import get_configs_of
 from preprocessor import dailytalk
 
