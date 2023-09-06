@@ -2,7 +2,7 @@
 
 ## Introduction
 This is an implementation of the following paper.
-FCTALKER: FINE AND COARSE GRAINED CONTEXT MODELING FOR EXPRESSIVE CONVERSATIONAL SPEECH SYNTHESIS
+《FCTALKER: FINE AND COARSE GRAINED CONTEXT MODELING FOR EXPRESSIVE CONVERSATIONAL SPEECH SYNTHESIS》
 
 Yifan Hu, [Rui Liu *](https://ttslr.github.io/), [Haizhou Li](https://colips.org/~eleliha/).
  
