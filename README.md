@@ -1,4 +1,4 @@
-# FCTalker: Fine and Coarse Grained Context Modeling for Expressive Conversational Speech Synthesis
+# Multi-Scale Context Modeling with Dialogue BERT Pre-training for Expressive Conversational TTS
 
 ## Introduction
 This is an implementation of the following paper.
