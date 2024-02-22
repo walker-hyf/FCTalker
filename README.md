@@ -67,6 +67,16 @@ python3 synthesize.py --source preprocessed_data/DailyTalk/val_*.txt --restore_s
 ```
 to synthesize all utterances in `preprocessed_data/DailyTalk/val_*.txt`.
 
+## Citing
+To cite this repository:
+```bibtex
+@article{hu2022fctalker,
+  title={FCTalker: Fine and coarse grained context modeling for expressive conversational speech synthesis},
+  author={Hu, Yifan and Liu, Rui and Gao, Guanglai and Li, Haizhou},
+  journal={arXiv preprint arXiv:2210.15360},
+  year={2022}
+}
+```
 
 ## Author
 
