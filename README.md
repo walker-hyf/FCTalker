@@ -1,8 +1,8 @@
-# Multi-Scale Context Modeling with Dialogue BERT Pre-training for Expressive Conversational TTS
+# FCTALKER: FINE AND COARSE GRAINED CONTEXT MODELING FOR EXPRESSIVE CONVERSATIONAL SPEECH SYNTHESIS
 
 ## Introduction
 This is an implementation of the following paper.
-《 Multi-Scale Context Modeling with Dialogue BERT Pre-training for Expressive Conversational TTS》
+[《FCTALKER: FINE AND COARSE GRAINED CONTEXT MODELING FOR EXPRESSIVE CONVERSATIONAL SPEECH SYNTHESIS》](https://arxiv.org/pdf/2210.15360.pdf)
 
 Yifan Hu, [Rui Liu *](https://ttslr.github.io/), [Haizhou Li](https://colips.org/~eleliha/).
 
